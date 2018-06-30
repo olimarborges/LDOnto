@@ -2084,6 +2084,33 @@
     
 
 
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_00b79858_4c55_4611_b161_77669290b276 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_00b79858_4c55_4611_b161_77669290b276">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-a</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_22730140_4949_400c_acc5_4c0fe13aa6fd -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_22730140_4949_400c_acc5_4c0fe13aa6fd">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-j</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_2557a1d3_e5a9_4ece_ad1e_4d1cde8b0c3c -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_2557a1d3_e5a9_4ece_ad1e_4d1cde8b0c3c">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-f</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_2dcf0c7e_2f19_4f05_ae23_19e60ec5477a -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_2dcf0c7e_2f19_4f05_ae23_19e60ec5477a">
@@ -2093,11 +2120,83 @@
     
 
 
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_41a14eb7_3009_486b_be38_5787a85ee5e2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_41a14eb7_3009_486b_be38_5787a85ee5e2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-i</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_4f9f5377_deed_4ded_bc75_539b40565452 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_4f9f5377_deed_4ded_bc75_539b40565452">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-d</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_57e50f51_e75e_4435_b001_4a2858c5706c -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_57e50f51_e75e_4435_b001_4a2858c5706c">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6d599b5_62e0_4be9_a096_e77c83f11fa1"/>
+        <rdfs:label xml:lang="pt">Cheque-X</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_7ec18043_459a_42a7_ae36_789543f1da05 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_7ec18043_459a_42a7_ae36_789543f1da05">
         <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6d599b5_62e0_4be9_a096_e77c83f11fa1"/>
         <rdfs:label xml:lang="pt">Cheque-de-viagem</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_81de2850_1686_420b_be11_853403d52c97 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_81de2850_1686_420b_be11_853403d52c97">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-e</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_8807bee1_5ad4_4e82_ae99_f6a7a26e4f37 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_8807bee1_5ad4_4e82_ae99_f6a7a26e4f37">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-c</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_88bec1e7_bc3c_47b8_838a_7866ab4de898 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_88bec1e7_bc3c_47b8_838a_7866ab4de898">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
+        <rdfs:label xml:lang="pt">Dinheiro-X</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_9f98bfe9_5f78_4762_a36f_c1061d7ece8e -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_9f98bfe9_5f78_4762_a36f_c1061d7ece8e">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-h</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_a102f914_172a_44d0_b810_055287a86482 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_a102f914_172a_44d0_b810_055287a86482">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-g</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2116,6 +2215,24 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_cee797d2_efcf_4b53_a6aa_7c22d7e4f152">
         <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
         <rdfs:label xml:lang="pt">Moeda-estrangeira</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_e179a36a_ac00_4a83_992d_639086e2a179 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_e179a36a_ac00_4a83_992d_639086e2a179">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_1b0b0530_c639_4502_a7d6_710b2b8c46ac"/>
+        <rdfs:label xml:lang="pt">Depósito-fragmentado-X</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_e2f187e5_692e_43ec_aacf_2908ca947fa0 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_e2f187e5_692e_43ec_aacf_2908ca947fa0">
+        <rdf:type rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
+        <rdfs:label xml:lang="pt">Carta-circular-I-b</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2146,19 +2263,25 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    <rdf:Description rdf:about="urn:swrl#c">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#o">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#i">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#c">
+    <rdf:Description rdf:about="urn:swrl#y">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#a">
+    <rdf:Description rdf:about="urn:swrl#c1">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#l">
+    <rdf:Description rdf:about="urn:swrl#x">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:swrl#c2">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#o2">
@@ -2170,10 +2293,10 @@
     <rdf:Description rdf:about="urn:swrl#ov1">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#x">
+    <rdf:Description rdf:about="urn:swrl#i1">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#i1">
+    <rdf:Description rdf:about="urn:swrl#cc">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#i2">
@@ -2182,11 +2305,14 @@
     <rdf:Description rdf:about="urn:swrl#e">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
+    <rdf:Description rdf:about="urn:swrl#a">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#ce">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description>
-        <rdfs:comment>Art. 1º, I, g</rdfs:comment>
+        <rdfs:comment>Art. 1º, I, i</rdfs:comment>
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
         <swrl:body>
             <rdf:Description>
@@ -2194,7 +2320,375 @@
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                <rdf:first>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d0cc5c7c_ecf0_4e35_b8ae_e7fd57b0fc94"/>
+                                        <swrl:argument1 rdf:resource="urn:swrl#i"/>
+                                    </rdf:Description>
+                                </rdf:first>
+                                <rdf:rest>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                        <rdf:first>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                <swrl:argument2 rdf:resource="urn:swrl#i"/>
+                                            </rdf:Description>
+                                        </rdf:first>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                <rdf:first>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                        <swrl:classPredicate>
+                                                            <owl:Class>
+                                                                <owl:unionOf rdf:parseType="Collection">
+                                                                    <owl:Restriction>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                    </owl:Restriction>
+                                                                    <owl:Restriction>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                    </owl:Restriction>
+                                                                </owl:unionOf>
+                                                            </owl:Class>
+                                                        </swrl:classPredicate>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#y"/>
+                                                    </rdf:Description>
+                                                </rdf:first>
+                                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                            </rdf:Description>
+                                        </rdf:rest>
+                                    </rdf:Description>
+                                </rdf:rest>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_41a14eb7_3009_486b_be38_5787a85ee5e2"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <rdfs:comment>Art. 1º, I, e</rdfs:comment>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#cc"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                <rdf:first>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_1b0b0530_c639_4502_a7d6_710b2b8c46ac"/>
+                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                    </rdf:Description>
+                                </rdf:first>
+                                <rdf:rest>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                        <rdf:first>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                <swrl:argument2 rdf:resource="urn:swrl#i"/>
+                                            </rdf:Description>
+                                        </rdf:first>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                <rdf:first>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                        <swrl:classPredicate>
+                                                            <owl:Class>
+                                                                <owl:unionOf rdf:parseType="Collection">
+                                                                    <owl:Class>
+                                                                        <owl:intersectionOf rdf:parseType="Collection">
+                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3993ab53_a22f_41d3_86da_571fb814dc81"/>
+                                                                            <owl:Restriction>
+                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
+                                                                            </owl:Restriction>
+                                                                        </owl:intersectionOf>
+                                                                    </owl:Class>
+                                                                    <owl:Class>
+                                                                        <owl:intersectionOf rdf:parseType="Collection">
+                                                                            <owl:Restriction>
+                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_b81ee37f_f654_45da_b931_cf352a72d831"/>
+                                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_719012e6_a38e_4506_9f86_e60da20917cb"/>
+                                                                            </owl:Restriction>
+                                                                            <owl:Restriction>
+                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
+                                                                            </owl:Restriction>
+                                                                        </owl:intersectionOf>
+                                                                    </owl:Class>
+                                                                </owl:unionOf>
+                                                            </owl:Class>
+                                                        </swrl:classPredicate>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                                    </rdf:Description>
+                                                </rdf:first>
+                                                <rdf:rest>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                        <rdf:first>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_7fea3168_2d74_4980_95f7_b6f664915142"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
+                                                            </rdf:Description>
+                                                        </rdf:first>
+                                                        <rdf:rest>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                <rdf:first>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
+                                                                        <swrl:argument1 rdf:resource="urn:swrl#i"/>
+                                                                    </rdf:Description>
+                                                                </rdf:first>
+                                                                <rdf:rest>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                        <rdf:first>
+                                                                            <rdf:Description>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_4750d090_8273_4666_b13a_c81f49951d87"/>
+                                                                                <swrl:argument1 rdf:resource="urn:swrl#e"/>
+                                                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
+                                                                            </rdf:Description>
+                                                                        </rdf:first>
+                                                                        <rdf:rest>
+                                                                            <rdf:Description>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                <rdf:first>
+                                                                                    <rdf:Description>
+                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_719012e6_a38e_4506_9f86_e60da20917cb"/>
+                                                                                        <swrl:argument1 rdf:resource="urn:swrl#e"/>
+                                                                                    </rdf:Description>
+                                                                                </rdf:first>
+                                                                                <rdf:rest>
+                                                                                    <rdf:Description>
+                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                        <rdf:first>
+                                                                                            <rdf:Description>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_6b1ca165_a322_49d6_b955_2e3ed2927360"/>
+                                                                                                <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                                                                                                <swrl:argument2 rdf:resource="urn:swrl#cc"/>
+                                                                                            </rdf:Description>
+                                                                                        </rdf:first>
+                                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                                    </rdf:Description>
+                                                                                </rdf:rest>
+                                                                            </rdf:Description>
+                                                                        </rdf:rest>
+                                                                    </rdf:Description>
+                                                                </rdf:rest>
+                                                            </rdf:Description>
+                                                        </rdf:rest>
+                                                    </rdf:Description>
+                                                </rdf:rest>
+                                            </rdf:Description>
+                                        </rdf:rest>
+                                    </rdf:Description>
+                                </rdf:rest>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_81de2850_1686_420b_be11_853403d52c97"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <rdfs:comment>Art. 1º, I, d</rdfs:comment>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_1b0b0530_c639_4502_a7d6_710b2b8c46ac"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                <rdf:first>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
+                                        <swrl:argument1 rdf:resource="urn:swrl#i"/>
+                                    </rdf:Description>
+                                </rdf:first>
+                                <rdf:rest>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                        <rdf:first>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                <swrl:argument2 rdf:resource="urn:swrl#i"/>
+                                            </rdf:Description>
+                                        </rdf:first>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                <rdf:first>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                        <swrl:classPredicate>
+                                                            <owl:Class>
+                                                                <owl:unionOf rdf:parseType="Collection">
+                                                                    <owl:Restriction>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                    </owl:Restriction>
+                                                                    <owl:Restriction>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                    </owl:Restriction>
+                                                                </owl:unionOf>
+                                                            </owl:Class>
+                                                        </swrl:classPredicate>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#y"/>
+                                                    </rdf:Description>
+                                                </rdf:first>
+                                                <rdf:rest>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                        <rdf:first>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_2a1b0f81_ab5a_46d4_bb2b_483d5f0c481b"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
+                                                            </rdf:Description>
+                                                        </rdf:first>
+                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                    </rdf:Description>
+                                                </rdf:rest>
+                                            </rdf:Description>
+                                        </rdf:rest>
+                                    </rdf:Description>
+                                </rdf:rest>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_4f9f5377_deed_4ded_bc75_539b40565452"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <rdfs:comment>Art 1º, I, b</rdfs:comment>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3993ab53_a22f_41d3_86da_571fb814dc81"/>
                         <swrl:argument1 rdf:resource="urn:swrl#o"/>
                     </rdf:Description>
                 </rdf:first>
@@ -2237,146 +2731,19 @@
                                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
                                                         <swrl:classPredicate>
                                                             <owl:Class>
-                                                                <owl:intersectionOf rdf:parseType="Collection">
-                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                <owl:unionOf rdf:parseType="Collection">
                                                                     <owl:Restriction>
-                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_48a85ca1_369f_4c99_910d_ea100916d07f"/>
-                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_18eeb128_3e70_47a6_8645_c8278037d3fe"/>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
                                                                     </owl:Restriction>
-                                                                </owl:intersectionOf>
+                                                                    <owl:Restriction>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                    </owl:Restriction>
+                                                                </owl:unionOf>
                                                             </owl:Class>
                                                         </swrl:classPredicate>
-                                                        <swrl:argument1 rdf:resource="urn:swrl#a"/>
-                                                    </rdf:Description>
-                                                </rdf:first>
-                                                <rdf:rest>
-                                                    <rdf:Description>
-                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                                        <rdf:first>
-                                                            <rdf:Description>
-                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
-                                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                                                <swrl:argument2 rdf:resource="urn:swrl#c"/>
-                                                            </rdf:Description>
-                                                        </rdf:first>
-                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-                                                    </rdf:Description>
-                                                </rdf:rest>
-                                            </rdf:Description>
-                                        </rdf:rest>
-                                    </rdf:Description>
-                                </rdf:rest>
-                            </rdf:Description>
-                        </rdf:rest>
-                    </rdf:Description>
-                </rdf:rest>
-            </rdf:Description>
-        </swrl:body>
-        <swrl:head>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate>
-                            <owl:Class>
-                                <owl:intersectionOf rdf:parseType="Collection">
-                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                    <owl:Restriction>
-                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
-                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                                    </owl:Restriction>
-                                </owl:intersectionOf>
-                            </owl:Class>
-                        </swrl:classPredicate>
-                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-            </rdf:Description>
-        </swrl:head>
-    </rdf:Description>
-    <rdf:Description>
-        <rdfs:comment>Art. 1º, I, e</rdfs:comment>
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
-        <swrl:body>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_1b0b0530_c639_4502_a7d6_710b2b8c46ac"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                        <rdf:first>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#i"/>
-                            </rdf:Description>
-                        </rdf:first>
-                        <rdf:rest>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                <rdf:first>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                        <swrl:classPredicate>
-                                            <owl:Class>
-                                                <owl:unionOf rdf:parseType="Collection">
-                                                    <owl:Class>
-                                                        <owl:intersectionOf rdf:parseType="Collection">
-                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3993ab53_a22f_41d3_86da_571fb814dc81"/>
-                                                            <owl:Restriction>
-                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
-                                                                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
-                                                            </owl:Restriction>
-                                                        </owl:intersectionOf>
-                                                    </owl:Class>
-                                                    <owl:Class>
-                                                        <owl:intersectionOf rdf:parseType="Collection">
-                                                            <owl:Restriction>
-                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_b81ee37f_f654_45da_b931_cf352a72d831"/>
-                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_719012e6_a38e_4506_9f86_e60da20917cb"/>
-                                                            </owl:Restriction>
-                                                            <owl:Restriction>
-                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
-                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
-                                                            </owl:Restriction>
-                                                        </owl:intersectionOf>
-                                                    </owl:Class>
-                                                </owl:unionOf>
-                                            </owl:Class>
-                                        </swrl:classPredicate>
-                                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
-                                    </rdf:Description>
-                                </rdf:first>
-                                <rdf:rest>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                        <rdf:first>
-                                            <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
-                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_7fea3168_2d74_4980_95f7_b6f664915142"/>
-                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
-                                            </rdf:Description>
-                                        </rdf:first>
-                                        <rdf:rest>
-                                            <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                                <rdf:first>
-                                                    <rdf:Description>
-                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_b81ee37f_f654_45da_b931_cf352a72d831"/>
-                                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                                        <swrl:argument2 rdf:resource="urn:swrl#e"/>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#y"/>
                                                     </rdf:Description>
                                                 </rdf:first>
                                                 <rdf:rest>
@@ -2385,8 +2752,8 @@
                                                         <rdf:first>
                                                             <rdf:Description>
                                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
-                                                                <swrl:argument1 rdf:resource="urn:swrl#i"/>
+                                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_2837519f_18c3_46ca_b47e_fca6384b302e"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#a"/>
                                                             </rdf:Description>
                                                         </rdf:first>
                                                         <rdf:rest>
@@ -2394,10 +2761,10 @@
                                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                 <rdf:first>
                                                                     <rdf:Description>
-                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
-                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_4750d090_8273_4666_b13a_c81f49951d87"/>
-                                                                        <swrl:argument1 rdf:resource="urn:swrl#e"/>
-                                                                        <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_48a85ca1_369f_4c99_910d_ea100916d07f"/>
+                                                                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                                                                        <swrl:argument2 rdf:resource="urn:swrl#a"/>
                                                                     </rdf:Description>
                                                                 </rdf:first>
                                                                 <rdf:rest>
@@ -2406,8 +2773,20 @@
                                                                         <rdf:first>
                                                                             <rdf:Description>
                                                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_719012e6_a38e_4506_9f86_e60da20917cb"/>
-                                                                                <swrl:argument1 rdf:resource="urn:swrl#e"/>
+                                                                                <swrl:classPredicate>
+                                                                                    <owl:Restriction>
+                                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_eb093570_8c9d_408f_b5c1_f524e056e258"/>
+                                                                                        <owl:someValuesFrom>
+                                                                                            <owl:Class>
+                                                                                                <owl:unionOf rdf:parseType="Collection">
+                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_59e1eddf_da6c_4511_a4d5_b6401713f7d4"/>
+                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6d599b5_62e0_4be9_a096_e77c83f11fa1"/>
+                                                                                                </owl:unionOf>
+                                                                                            </owl:Class>
+                                                                                        </owl:someValuesFrom>
+                                                                                    </owl:Restriction>
+                                                                                </swrl:classPredicate>
+                                                                                <swrl:argument1 rdf:resource="urn:swrl#y"/>
                                                                             </rdf:Description>
                                                                         </rdf:first>
                                                                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -2432,9 +2811,10 @@
                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                 <rdf:first>
                     <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#l"/>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_e2f187e5_692e_43ec_aacf_2908ca947fa0"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -2442,7 +2822,7 @@
         </swrl:head>
     </rdf:Description>
     <rdf:Description>
-        <rdfs:comment>Art. 1º, I, d</rdfs:comment>
+        <rdfs:comment>Art. 1º, I, g</rdfs:comment>
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
         <swrl:body>
             <rdf:Description>
@@ -2450,7 +2830,7 @@
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_1b0b0530_c639_4502_a7d6_710b2b8c46ac"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
                         <swrl:argument1 rdf:resource="urn:swrl#o"/>
                     </rdf:Description>
                 </rdf:first>
@@ -2480,13 +2860,72 @@
                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                         <rdf:first>
                                             <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
-                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_2a1b0f81_ab5a_46d4_bb2b_483d5f0c481b"/>
-                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#c1"/>
                                             </rdf:Description>
                                         </rdf:first>
-                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                <rdf:first>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                        <swrl:classPredicate>
+                                                            <owl:Class>
+                                                                <owl:intersectionOf rdf:parseType="Collection">
+                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                    <owl:Restriction>
+                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_48a85ca1_369f_4c99_910d_ea100916d07f"/>
+                                                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_18eeb128_3e70_47a6_8645_c8278037d3fe"/>
+                                                                    </owl:Restriction>
+                                                                </owl:intersectionOf>
+                                                            </owl:Class>
+                                                        </swrl:classPredicate>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                                    </rdf:Description>
+                                                </rdf:first>
+                                                <rdf:rest>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                        <rdf:first>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                                <swrl:argument2 rdf:resource="urn:swrl#c1"/>
+                                                            </rdf:Description>
+                                                        </rdf:first>
+                                                        <rdf:rest>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                <rdf:first>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                        <swrl:argument1 rdf:resource="urn:swrl#c2"/>
+                                                                    </rdf:Description>
+                                                                </rdf:first>
+                                                                <rdf:rest>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                        <rdf:first>
+                                                                            <rdf:Description>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                                                <swrl:argument2 rdf:resource="urn:swrl#c2"/>
+                                                                            </rdf:Description>
+                                                                        </rdf:first>
+                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                    </rdf:Description>
+                                                                </rdf:rest>
+                                                            </rdf:Description>
+                                                        </rdf:rest>
+                                                    </rdf:Description>
+                                                </rdf:rest>
+                                            </rdf:Description>
+                                        </rdf:rest>
                                     </rdf:Description>
                                 </rdf:rest>
                             </rdf:Description>
@@ -2500,9 +2939,10 @@
                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                 <rdf:first>
                     <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#l"/>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c2"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_a102f914_172a_44d0_b810_055287a86482"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -2632,7 +3072,32 @@
                                                                                         <swrl:argument1 rdf:resource="urn:swrl#o"/>
                                                                                     </rdf:Description>
                                                                                 </rdf:first>
-                                                                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                                <rdf:rest>
+                                                                                    <rdf:Description>
+                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                        <rdf:first>
+                                                                                            <rdf:Description>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                                                <swrl:classPredicate>
+                                                                                                    <owl:Class>
+                                                                                                        <owl:unionOf rdf:parseType="Collection">
+                                                                                                            <owl:Restriction>
+                                                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                                                            </owl:Restriction>
+                                                                                                            <owl:Restriction>
+                                                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                                                            </owl:Restriction>
+                                                                                                        </owl:unionOf>
+                                                                                                    </owl:Class>
+                                                                                                </swrl:classPredicate>
+                                                                                                <swrl:argument1 rdf:resource="urn:swrl#y"/>
+                                                                                            </rdf:Description>
+                                                                                        </rdf:first>
+                                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                                    </rdf:Description>
+                                                                                </rdf:rest>
                                                                             </rdf:Description>
                                                                         </rdf:rest>
                                                                     </rdf:Description>
@@ -2656,19 +3121,143 @@
                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                 <rdf:first>
                     <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_00b79858_4c55_4611_b161_77669290b276"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <rdfs:comment>Art. 1º, I, j</rdfs:comment>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
                         <swrl:classPredicate>
                             <owl:Class>
-                                <owl:intersectionOf rdf:parseType="Collection">
-                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                    <owl:Restriction>
-                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
-                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                                    </owl:Restriction>
-                                </owl:intersectionOf>
+                                <owl:unionOf rdf:parseType="Collection">
+                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_02ef6df7_4d37_48ae_9b5b_fd0d254d87a7"/>
+                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_af0cc355_bd0f_489b_8800_1b6be3d7dd04"/>
+                                </owl:unionOf>
                             </owl:Class>
                         </swrl:classPredicate>
-                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#i"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                <rdf:first>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                        <swrl:classPredicate>
+                                            <owl:Class>
+                                                <owl:unionOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
+                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_4850cd90_ff5e_4c14_91ae_5175a4d702d0"/>
+                                                </owl:unionOf>
+                                            </owl:Class>
+                                        </swrl:classPredicate>
+                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                    </rdf:Description>
+                                </rdf:first>
+                                <rdf:rest>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                        <rdf:first>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                <swrl:argument2 rdf:resource="urn:swrl#i"/>
+                                            </rdf:Description>
+                                        </rdf:first>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                <rdf:first>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_2837519f_18c3_46ca_b47e_fca6384b302e"/>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#a"/>
+                                                    </rdf:Description>
+                                                </rdf:first>
+                                                <rdf:rest>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                        <rdf:first>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_48a85ca1_369f_4c99_910d_ea100916d07f"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                                                <swrl:argument2 rdf:resource="urn:swrl#a"/>
+                                                            </rdf:Description>
+                                                        </rdf:first>
+                                                        <rdf:rest>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                <rdf:first>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                                        <swrl:argument2 rdf:resource="urn:swrl#x"/>
+                                                                    </rdf:Description>
+                                                                </rdf:first>
+                                                                <rdf:rest>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                        <rdf:first>
+                                                                            <rdf:Description>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_2a01a5c5_de5c_4c91_bcf8_f4d0196b1cef"/>
+                                                                                <swrl:argument1 rdf:resource="urn:swrl#a"/>
+                                                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</swrl:argument2>
+                                                                            </rdf:Description>
+                                                                        </rdf:first>
+                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                    </rdf:Description>
+                                                                </rdf:rest>
+                                                            </rdf:Description>
+                                                        </rdf:rest>
+                                                    </rdf:Description>
+                                                </rdf:rest>
+                                            </rdf:Description>
+                                        </rdf:rest>
+                                    </rdf:Description>
+                                </rdf:rest>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_22730140_4949_400c_acc5_4c0fe13aa6fd"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -2714,10 +3303,9 @@
                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                         <rdf:first>
                                             <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_b81ee37f_f654_45da_b931_cf352a72d831"/>
-                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                                <swrl:argument2 rdf:resource="urn:swrl#e"/>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_719012e6_a38e_4506_9f86_e60da20917cb"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#e"/>
                                             </rdf:Description>
                                         </rdf:first>
                                         <rdf:rest>
@@ -2725,9 +3313,10 @@
                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                 <rdf:first>
                                                     <rdf:Description>
-                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_719012e6_a38e_4506_9f86_e60da20917cb"/>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_afb97869_0613_4a2f_98d3_b569c44b20e7"/>
                                                         <swrl:argument1 rdf:resource="urn:swrl#e"/>
+                                                        <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
                                                     </rdf:Description>
                                                 </rdf:first>
                                                 <rdf:rest>
@@ -2735,10 +3324,10 @@
                                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                         <rdf:first>
                                                             <rdf:Description>
-                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
-                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_afb97869_0613_4a2f_98d3_b569c44b20e7"/>
-                                                                <swrl:argument1 rdf:resource="urn:swrl#e"/>
-                                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl:argument2>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_b81ee37f_f654_45da_b931_cf352a72d831"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
+                                                                <swrl:argument2 rdf:resource="urn:swrl#e"/>
                                                             </rdf:Description>
                                                         </rdf:first>
                                                         <rdf:rest>
@@ -2797,308 +3386,10 @@
                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                 <rdf:first>
                     <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate>
-                            <owl:Class>
-                                <owl:intersectionOf rdf:parseType="Collection">
-                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                    <owl:Restriction>
-                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
-                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                                    </owl:Restriction>
-                                </owl:intersectionOf>
-                            </owl:Class>
-                        </swrl:classPredicate>
-                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-            </rdf:Description>
-        </swrl:head>
-    </rdf:Description>
-    <rdf:Description>
-        <rdfs:comment>Art 1º, I, b</rdfs:comment>
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
-        <swrl:body>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3993ab53_a22f_41d3_86da_571fb814dc81"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                        <rdf:first>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#i"/>
-                            </rdf:Description>
-                        </rdf:first>
-                        <rdf:rest>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                <rdf:first>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
-                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                        <swrl:argument2 rdf:resource="urn:swrl#i"/>
-                                    </rdf:Description>
-                                </rdf:first>
-                                <rdf:rest>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                        <rdf:first>
-                                            <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                <swrl:classPredicate>
-                                                    <owl:Class>
-                                                        <owl:intersectionOf rdf:parseType="Collection">
-                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                                            <owl:Restriction>
-                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_eb093570_8c9d_408f_b5c1_f524e056e258"/>
-                                                                <owl:someValuesFrom>
-                                                                    <owl:Class>
-                                                                        <owl:unionOf rdf:parseType="Collection">
-                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_59e1eddf_da6c_4511_a4d5_b6401713f7d4"/>
-                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6d599b5_62e0_4be9_a096_e77c83f11fa1"/>
-                                                                        </owl:unionOf>
-                                                                    </owl:Class>
-                                                                </owl:someValuesFrom>
-                                                            </owl:Restriction>
-                                                        </owl:intersectionOf>
-                                                    </owl:Class>
-                                                </swrl:classPredicate>
-                                                <swrl:argument1 rdf:resource="urn:swrl#c"/>
-                                            </rdf:Description>
-                                        </rdf:first>
-                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-                                    </rdf:Description>
-                                </rdf:rest>
-                            </rdf:Description>
-                        </rdf:rest>
-                    </rdf:Description>
-                </rdf:rest>
-            </rdf:Description>
-        </swrl:body>
-        <swrl:head>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate>
-                            <owl:Class>
-                                <owl:intersectionOf rdf:parseType="Collection">
-                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                    <owl:Restriction>
-                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
-                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                                    </owl:Restriction>
-                                </owl:intersectionOf>
-                            </owl:Class>
-                        </swrl:classPredicate>
-                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-            </rdf:Description>
-        </swrl:head>
-    </rdf:Description>
-    <rdf:Description>
-        <rdfs:comment>Art. 1º, I, j</rdfs:comment>
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
-        <swrl:body>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#i"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                        <rdf:first>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_48a85ca1_369f_4c99_910d_ea100916d07f"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#x"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#a"/>
-                            </rdf:Description>
-                        </rdf:first>
-                        <rdf:rest>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                <rdf:first>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                        <swrl:classPredicate>
-                                            <owl:Class>
-                                                <owl:intersectionOf rdf:parseType="Collection">
-                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3993ab53_a22f_41d3_86da_571fb814dc81"/>
-                                                    <owl:Class>
-                                                        <owl:unionOf rdf:parseType="Collection">
-                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
-                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_4850cd90_ff5e_4c14_91ae_5175a4d702d0"/>
-                                                        </owl:unionOf>
-                                                    </owl:Class>
-                                                </owl:intersectionOf>
-                                            </owl:Class>
-                                        </swrl:classPredicate>
-                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                    </rdf:Description>
-                                </rdf:first>
-                                <rdf:rest>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                        <rdf:first>
-                                            <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
-                                                <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                                <swrl:argument2 rdf:resource="urn:swrl#x"/>
-                                            </rdf:Description>
-                                        </rdf:first>
-                                        <rdf:rest>
-                                            <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                                <rdf:first>
-                                                    <rdf:Description>
-                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
-                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_2a01a5c5_de5c_4c91_bcf8_f4d0196b1cef"/>
-                                                        <swrl:argument1 rdf:resource="urn:swrl#a"/>
-                                                        <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</swrl:argument2>
-                                                    </rdf:Description>
-                                                </rdf:first>
-                                                <rdf:rest>
-                                                    <rdf:Description>
-                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                                        <rdf:first>
-                                                            <rdf:Description>
-                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
-                                                                <swrl:argument1 rdf:resource="urn:swrl#i"/>
-                                                            </rdf:Description>
-                                                        </rdf:first>
-                                                        <rdf:rest>
-                                                            <rdf:Description>
-                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                                                <rdf:first>
-                                                                    <rdf:Description>
-                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                        <swrl:classPredicate>
-                                                                            <owl:Class>
-                                                                                <owl:unionOf rdf:parseType="Collection">
-                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_02ef6df7_4d37_48ae_9b5b_fd0d254d87a7"/>
-                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_af0cc355_bd0f_489b_8800_1b6be3d7dd04"/>
-                                                                                </owl:unionOf>
-                                                                            </owl:Class>
-                                                                        </swrl:classPredicate>
-                                                                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
-                                                                    </rdf:Description>
-                                                                </rdf:first>
-                                                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-                                                            </rdf:Description>
-                                                        </rdf:rest>
-                                                    </rdf:Description>
-                                                </rdf:rest>
-                                            </rdf:Description>
-                                        </rdf:rest>
-                                    </rdf:Description>
-                                </rdf:rest>
-                            </rdf:Description>
-                        </rdf:rest>
-                    </rdf:Description>
-                </rdf:rest>
-            </rdf:Description>
-        </swrl:body>
-        <swrl:head>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate>
-                            <owl:Class>
-                                <owl:intersectionOf rdf:parseType="Collection">
-                                    <owl:Class>
-                                        <owl:unionOf rdf:parseType="Collection">
-                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_02ef6df7_4d37_48ae_9b5b_fd0d254d87a7"/>
-                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_af0cc355_bd0f_489b_8800_1b6be3d7dd04"/>
-                                        </owl:unionOf>
-                                    </owl:Class>
-                                    <owl:Restriction>
-                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
-                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                                    </owl:Restriction>
-                                </owl:intersectionOf>
-                            </owl:Class>
-                        </swrl:classPredicate>
-                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-            </rdf:Description>
-        </swrl:head>
-    </rdf:Description>
-    <rdf:Description>
-        <rdfs:comment>Art. 1º, I, i</rdfs:comment>
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
-        <swrl:body>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                        <rdf:first>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d0cc5c7c_ecf0_4e35_b8ae_e7fd57b0fc94"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#i"/>
-                            </rdf:Description>
-                        </rdf:first>
-                        <rdf:rest>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                                <rdf:first>
-                                    <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
-                                        <swrl:argument1 rdf:resource="urn:swrl#o"/>
-                                        <swrl:argument2 rdf:resource="urn:swrl#i"/>
-                                    </rdf:Description>
-                                </rdf:first>
-                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-                            </rdf:Description>
-                        </rdf:rest>
-                    </rdf:Description>
-                </rdf:rest>
-            </rdf:Description>
-        </swrl:body>
-        <swrl:head>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#l"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_2557a1d3_e5a9_4ece_ad1e_4d1cde8b0c3c"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3208,10 +3499,30 @@
                                                                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                                         <rdf:first>
                                                                                             <rdf:Description>
-                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
-                                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_08fe082d_c4bb_4ee0_aaba_b4f0ce276694"/>
-                                                                                                <swrl:argument1 rdf:resource="urn:swrl#o1"/>
-                                                                                                <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</swrl:argument2>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                                                <swrl:classPredicate>
+                                                                                                    <owl:Class>
+                                                                                                        <owl:intersectionOf rdf:parseType="Collection">
+                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                                                                                                            <owl:Class>
+                                                                                                                <owl:complementOf>
+                                                                                                                    <owl:Restriction>
+                                                                                                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_dcc39308_74d9_4d20_8873_6eab0822a3ef"/>
+                                                                                                                        <owl:someValuesFrom>
+                                                                                                                            <owl:Class>
+                                                                                                                                <owl:unionOf rdf:parseType="Collection">
+                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_02ef6df7_4d37_48ae_9b5b_fd0d254d87a7"/>
+                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_af0cc355_bd0f_489b_8800_1b6be3d7dd04"/>
+                                                                                                                                </owl:unionOf>
+                                                                                                                            </owl:Class>
+                                                                                                                        </owl:someValuesFrom>
+                                                                                                                    </owl:Restriction>
+                                                                                                                </owl:complementOf>
+                                                                                                            </owl:Class>
+                                                                                                        </owl:intersectionOf>
+                                                                                                    </owl:Class>
+                                                                                                </swrl:classPredicate>
+                                                                                                <swrl:argument1 rdf:resource="urn:swrl#y"/>
                                                                                             </rdf:Description>
                                                                                         </rdf:first>
                                                                                         <rdf:rest>
@@ -3219,30 +3530,10 @@
                                                                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                                                 <rdf:first>
                                                                                                     <rdf:Description>
-                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                                                        <swrl:classPredicate>
-                                                                                                            <owl:Class>
-                                                                                                                <owl:intersectionOf rdf:parseType="Collection">
-                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                                                                                                    <owl:Class>
-                                                                                                                        <owl:complementOf>
-                                                                                                                            <owl:Restriction>
-                                                                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_dcc39308_74d9_4d20_8873_6eab0822a3ef"/>
-                                                                                                                                <owl:someValuesFrom>
-                                                                                                                                    <owl:Class>
-                                                                                                                                        <owl:unionOf rdf:parseType="Collection">
-                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_02ef6df7_4d37_48ae_9b5b_fd0d254d87a7"/>
-                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_af0cc355_bd0f_489b_8800_1b6be3d7dd04"/>
-                                                                                                                                        </owl:unionOf>
-                                                                                                                                    </owl:Class>
-                                                                                                                                </owl:someValuesFrom>
-                                                                                                                            </owl:Restriction>
-                                                                                                                        </owl:complementOf>
-                                                                                                                    </owl:Class>
-                                                                                                                </owl:intersectionOf>
-                                                                                                            </owl:Class>
-                                                                                                        </swrl:classPredicate>
-                                                                                                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLDataProperty_08fe082d_c4bb_4ee0_aaba_b4f0ce276694"/>
+                                                                                                        <swrl:argument1 rdf:resource="urn:swrl#o1"/>
+                                                                                                        <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</swrl:argument2>
                                                                                                     </rdf:Description>
                                                                                                 </rdf:first>
                                                                                                 <rdf:rest>
@@ -3305,19 +3596,10 @@
                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                 <rdf:first>
                     <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate>
-                            <owl:Class>
-                                <owl:intersectionOf rdf:parseType="Collection">
-                                    <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
-                                    <owl:Restriction>
-                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
-                                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                                    </owl:Restriction>
-                                </owl:intersectionOf>
-                            </owl:Class>
-                        </swrl:classPredicate>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
                         <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_8807bee1_5ad4_4e82_ae99_f6a7a26e4f37"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3333,8 +3615,8 @@
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_cb0b9556_6ff9_4f88_8b12_4d990b22a76c"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#o1"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3984fa6e_fd20_4f89_93d8_028d539768e7"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3343,8 +3625,8 @@
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#i1"/>
+                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_cb0b9556_6ff9_4f88_8b12_4d990b22a76c"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#o1"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest>
@@ -3352,10 +3634,9 @@
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                 <rdf:first>
                                     <rdf:Description>
-                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
-                                        <swrl:argument1 rdf:resource="urn:swrl#o1"/>
-                                        <swrl:argument2 rdf:resource="urn:swrl#i1"/>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_d89d0070_37f4_46c7_8abb_0d7eeab4a75f"/>
+                                        <swrl:argument1 rdf:resource="urn:swrl#i1"/>
                                     </rdf:Description>
                                 </rdf:first>
                                 <rdf:rest>
@@ -3363,9 +3644,10 @@
                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                         <rdf:first>
                                             <rdf:Description>
-                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
-                                                <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                <swrl:argument1 rdf:resource="urn:swrl#o1"/>
+                                                <swrl:argument2 rdf:resource="urn:swrl#i1"/>
                                             </rdf:Description>
                                         </rdf:first>
                                         <rdf:rest>
@@ -3373,10 +3655,9 @@
                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                 <rdf:first>
                                                     <rdf:Description>
-                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
-                                                        <swrl:argument1 rdf:resource="urn:swrl#o1"/>
-                                                        <swrl:argument2 rdf:resource="urn:swrl#c"/>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
+                                                        <swrl:argument1 rdf:resource="urn:swrl#cc"/>
                                                     </rdf:Description>
                                                 </rdf:first>
                                                 <rdf:rest>
@@ -3384,9 +3665,10 @@
                                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                         <rdf:first>
                                                             <rdf:Description>
-                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
-                                                                <swrl:argument1 rdf:resource="urn:swrl#o2"/>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_6b1ca165_a322_49d6_b955_2e3ed2927360"/>
+                                                                <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                                                                <swrl:argument2 rdf:resource="urn:swrl#cc"/>
                                                             </rdf:Description>
                                                         </rdf:first>
                                                         <rdf:rest>
@@ -3394,9 +3676,10 @@
                                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                 <rdf:first>
                                                                     <rdf:Description>
-                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_7d10a594_6677_4ce6_b096_14e3c673a046"/>
-                                                                        <swrl:argument1 rdf:resource="urn:swrl#i2"/>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                        <swrl:argument1 rdf:resource="urn:swrl#o1"/>
+                                                                        <swrl:argument2 rdf:resource="urn:swrl#cc"/>
                                                                     </rdf:Description>
                                                                 </rdf:first>
                                                                 <rdf:rest>
@@ -3404,10 +3687,9 @@
                                                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                         <rdf:first>
                                                                             <rdf:Description>
-                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                                <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_0fffeb5f_a91c_412a_86e8_25067a3178e6"/>
                                                                                 <swrl:argument1 rdf:resource="urn:swrl#o2"/>
-                                                                                <swrl:argument2 rdf:resource="urn:swrl#i2"/>
                                                                             </rdf:Description>
                                                                         </rdf:first>
                                                                         <rdf:rest>
@@ -3415,10 +3697,9 @@
                                                                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                                 <rdf:first>
                                                                                     <rdf:Description>
-                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
-                                                                                        <swrl:argument1 rdf:resource="urn:swrl#o2"/>
-                                                                                        <swrl:argument2 rdf:resource="urn:swrl#c"/>
+                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_7d10a594_6677_4ce6_b096_14e3c673a046"/>
+                                                                                        <swrl:argument1 rdf:resource="urn:swrl#i2"/>
                                                                                     </rdf:Description>
                                                                                 </rdf:first>
                                                                                 <rdf:rest>
@@ -3426,22 +3707,48 @@
                                                                                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                                                                                         <rdf:first>
                                                                                             <rdf:Description>
-                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                                                                                                <swrl:classPredicate>
-                                                                                                    <owl:Class>
-                                                                                                        <owl:intersectionOf rdf:parseType="Collection">
-                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
-                                                                                                            <owl:Restriction>
-                                                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
-                                                                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
-                                                                                                            </owl:Restriction>
-                                                                                                        </owl:intersectionOf>
-                                                                                                    </owl:Class>
-                                                                                                </swrl:classPredicate>
-                                                                                                <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_00b3854c_3c2e_4b27_9632_c7c3ed0369d4"/>
+                                                                                                <swrl:argument1 rdf:resource="urn:swrl#o2"/>
+                                                                                                <swrl:argument2 rdf:resource="urn:swrl#i2"/>
                                                                                             </rdf:Description>
                                                                                         </rdf:first>
-                                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                                        <rdf:rest>
+                                                                                            <rdf:Description>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                <rdf:first>
+                                                                                                    <rdf:Description>
+                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_f39e5eeb_bbff_4175_9d9b_ad063d349b35"/>
+                                                                                                        <swrl:argument1 rdf:resource="urn:swrl#o2"/>
+                                                                                                        <swrl:argument2 rdf:resource="urn:swrl#cc"/>
+                                                                                                    </rdf:Description>
+                                                                                                </rdf:first>
+                                                                                                <rdf:rest>
+                                                                                                    <rdf:Description>
+                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                        <rdf:first>
+                                                                                                            <rdf:Description>
+                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                                                                                                                <swrl:classPredicate>
+                                                                                                                    <owl:Class>
+                                                                                                                        <owl:intersectionOf rdf:parseType="Collection">
+                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_3993ab53_a22f_41d3_86da_571fb814dc81"/>
+                                                                                                                            <owl:Restriction>
+                                                                                                                                <owl:onProperty rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_e7417889_c852_47bc_8860_c4f61790a213"/>
+                                                                                                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_b6350bfc_10bc_416d_b0b1_3f091e324011"/>
+                                                                                                                            </owl:Restriction>
+                                                                                                                        </owl:intersectionOf>
+                                                                                                                    </owl:Class>
+                                                                                                                </swrl:classPredicate>
+                                                                                                                <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                                                                                            </rdf:Description>
+                                                                                                        </rdf:first>
+                                                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                                                    </rdf:Description>
+                                                                                                </rdf:rest>
+                                                                                            </rdf:Description>
+                                                                                        </rdf:rest>
                                                                                     </rdf:Description>
                                                                                 </rdf:rest>
                                                                             </rdf:Description>
@@ -3467,9 +3774,10 @@
                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
                 <rdf:first>
                     <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
-                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLClass_063a9faf_c61b_48fc_b654_bacc751309b5"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLObjectProperty_773179a4_5fb6_4c31_a618_13d93b7e65fe"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#c"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/dpf/ontologies/2018/5/untitled-ontology-28#OWLNamedIndividual_9f98bfe9_5f78_4762_a36f_c1061d7ece8e"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
